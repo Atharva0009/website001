@@ -21,4 +21,4 @@ jobs:
         uses: zaproxy/action-baseline@v0.7.0
         with:
           # Target URL
-          target: "https://dotnetthoughts.net"
+          target: "http://bucky100.s3-website.ap-south-1.amazonaws.com"
